@@ -2,10 +2,14 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
+      <loc>https://vpssuggest.github.io/friends/</loc><lastmod>2023-07-17T16:30:11&#43;08:00</lastmod></url><url>
       <loc>https://vpssuggest.github.io/about/</loc><lastmod>2023-07-17T15:32:08&#43;08:00</lastmod></url><url>
+      <loc>https://vpssuggest.github.io/categories/</loc><lastmod>2023-07-16T15:14:22&#43;08:00</lastmod></url><url>
       <loc>https://vpssuggest.github.io/posts/</loc><lastmod>2023-07-16T15:14:22&#43;08:00</lastmod></url><url>
+      <loc>https://vpssuggest.github.io/tags/</loc><lastmod>2023-07-16T15:14:22&#43;08:00</lastmod></url><url>
       <loc>https://vpssuggest.github.io/</loc><lastmod>2023-07-16T15:14:22&#43;08:00</lastmod></url><url>
+      <loc>https://vpssuggest.github.io/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</loc><lastmod>2023-07-16T15:14:22&#43;08:00</lastmod></url><url>
       <loc>https://vpssuggest.github.io/posts/aliyun-app-vps/</loc><lastmod>2023-07-16T15:14:22&#43;08:00</lastmod></url><url>
-      <loc>https://vpssuggest.github.io/posts/first_post/</loc><lastmod>2023-02-20T20:14:22&#43;08:00</lastmod></url><url>
-      <loc>https://vpssuggest.github.io/categories/</loc></url><url>
-      <loc>https://vpssuggest.github.io/tags/</loc></url></urlset>
+      <loc>https://vpssuggest.github.io/categories/%E5%9B%BD%E5%86%85vps/</loc><lastmod>2023-07-16T15:14:22&#43;08:00</lastmod></url><url>
+      <loc>https://vpssuggest.github.io/tags/%E8%BD%BB%E9%87%8F%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc><lastmod>2023-07-16T15:14:22&#43;08:00</lastmod></url><url>
+      <loc>https://vpssuggest.github.io/posts/first_post/</loc><lastmod>2023-02-20T20:14:22&#43;08:00</lastmod></url></urlset>

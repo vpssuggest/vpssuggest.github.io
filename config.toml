@@ -78,6 +78,16 @@ theme = "FixIt"
     weight = 4
     [menu.main.params]
       icon = "fa-solid fa-info-circle"    
+  [[menu.main]]
+    identifier = "friends"
+    pre = ""
+    post = ""
+    name = "友情链接"
+    url = "/friends/"
+    title = ""
+    weight = 5
+    [menu.main.params]
+      icon = "fa-solid fa-users"      
 
 # -------------------------------------------------------------------------------------
 # Theme Core Configuration
@@ -775,7 +785,7 @@ theme = "FixIt"
 
   # FixIt 0.2.7 | NEW Cookie consent config
   [params.cookieconsent]
-    enable = true
+    enable = false
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
       message = ""
