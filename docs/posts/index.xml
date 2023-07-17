@@ -3,11 +3,12 @@
     <title>所有文章 - VPS推荐</title>
     <link>https://vpssuggest.github.io/posts/</link>
     <description>所有文章 | VPS推荐</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 16 Jul 2023 15:14:22 &#43;0800</lastBuildDate><atom:link href="https://vpssuggest.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2441626619@qq.com (VPS推荐官)</managingEditor>
+      <webMaster>2441626619@qq.com (VPS推荐官)</webMaster><lastBuildDate>Sun, 16 Jul 2023 15:14:22 &#43;0800</lastBuildDate><atom:link href="https://vpssuggest.github.io/posts/" rel="self" type="application/rss+xml" /><item>
   <title>阿里云轻量服务器</title>
   <link>https://vpssuggest.github.io/posts/aliyun-app-vps/</link>
   <pubDate>Sun, 16 Jul 2023 15:14:22 &#43;0800</pubDate>
-  <author>作者</author>
+  <author>VPS推荐官</author>
   <guid>https://vpssuggest.github.io/posts/aliyun-app-vps/</guid>
   <description><![CDATA[阿里云轻量服务器优惠链接 轻量服务器与云服务器ECS的区别 云服务器ECS是阿里云提供的性能卓越、稳定可靠、弹性扩展的IaaS（Infrastr]]></description>
 </item>
@@ -15,7 +16,7 @@
   <title>我的第一篇文章</title>
   <link>https://vpssuggest.github.io/posts/first_post/</link>
   <pubDate>Mon, 20 Feb 2023 20:14:22 &#43;0800</pubDate>
-  <author>作者</author>
+  <author>VPS推荐官</author>
   <guid>https://vpssuggest.github.io/posts/first_post/</guid>
   <description><![CDATA[博客（英语：Blog）是一种在线日记型式的个人网站，借由张帖子章、图片或视频来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以]]></description>
 </item>

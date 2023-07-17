@@ -3,5 +3,6 @@
     <title>Categories - 分类 - VPS推荐</title>
     <link>https://vpssuggest.github.io/categories/</link>
     <description>Categories - 分类 - VPS推荐</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><atom:link href="https://vpssuggest.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2441626619@qq.com (VPS推荐官)</managingEditor>
+      <webMaster>2441626619@qq.com (VPS推荐官)</webMaster><atom:link href="https://vpssuggest.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>

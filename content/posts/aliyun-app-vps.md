@@ -1,7 +1,6 @@
 ---
 title: 阿里云轻量服务器
 date: 2023-07-16T15:14:22+08:00
-author: VPS推荐官
 draft: false
 ---
 

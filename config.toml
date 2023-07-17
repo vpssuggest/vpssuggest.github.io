@@ -18,6 +18,14 @@ hasCJKLanguage = true
 publishDir            = "docs"					# 站点静态文件保存目录
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "FixIt"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[author]
+  name = "VPS推荐官"
+  email = "2441626619@qq.com"
+  link = "/about"
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -60,6 +68,16 @@ theme = "FixIt"
     weight = 3
     [menu.main.params]
       icon = "fa-solid fa-tags"
+  [[menu.main]]
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "关于"
+    url = "/about/"
+    title = ""
+    weight = 4
+    [menu.main.params]
+      icon = "fa-solid fa-info-circle"    
 
 # -------------------------------------------------------------------------------------
 # Theme Core Configuration
@@ -111,7 +129,7 @@ theme = "FixIt"
 
   # FixIt 0.2.0 | NEW Search config
   [params.search]
-    enable = false
+    enable = true
     # type of search engine ["lunr", "algolia", "fuse"]
     type = "lunr"
     # max index length of the chunked content
