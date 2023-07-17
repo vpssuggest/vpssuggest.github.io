@@ -2,7 +2,7 @@
 title: 阿里云轻量服务器
 date: 2023-07-16T15:14:22+08:00
 categories: ["国内VPS"]
-tags: ["阿里云", "轻量服务器"]
+tags: ["aliyun", "轻量服务器"]
 description: 阿里云VPS，轻量应用服务器
 keywords: ["VPS","VPS推荐","阿里云VPS","轻量应用服务器"]
 draft: false
