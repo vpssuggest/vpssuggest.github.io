@@ -32,15 +32,15 @@ draft: false
 
 阿里云轻量应用服务器提供应用镜像和系统镜像两种选择，具体如下所示。
 
-![vps-place](/images/aliyun-app-vps/1689508106083.jpg)
+![vps-image](/images/aliyun-app-vps/1689508106083.jpg)
 
-![vps-place](/images/aliyun-app-vps/1689508132136.jpg)
+![vps-image](/images/aliyun-app-vps/1689508132136.jpg)
 
 
 ## 套餐配置
 
 阿里云轻量应用服务器提供四种套餐配置，具体如下所示。
 
-![vps-place](/images/aliyun-app-vps/1689508161421.jpg)
+![vps-package](/images/aliyun-app-vps/1689508161421.jpg)
 
 [阿里云轻量服务器优惠链接](https://www.aliyun.com/product/swas?scm=20140722.M_4691655._.V_1&source=5176.11533457&userCode=rhbbq4qp)
