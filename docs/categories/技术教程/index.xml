@@ -1,20 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>VPS推荐</title>
-    <link>https://vpssuggest.github.io/</link>
-    <description>VPS推荐网站</description>
+    <title>技术教程 - 分类 - VPS推荐</title>
+    <link>https://vpssuggest.github.io/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</link>
+    <description>技术教程 - 分类 - VPS推荐</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2441626619@qq.com (VPS推荐官)</managingEditor>
-      <webMaster>2441626619@qq.com (VPS推荐官)</webMaster><lastBuildDate>Sun, 16 Jul 2023 15:14:22 &#43;0800</lastBuildDate>
-      <atom:link href="https://vpssuggest.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-  <title>阿里云轻量服务器</title>
-  <link>https://vpssuggest.github.io/posts/aliyun-app-vps/</link>
-  <pubDate>Sun, 16 Jul 2023 15:14:22 &#43;0800</pubDate>
-  <author>VPS推荐官</author>
-  <guid>https://vpssuggest.github.io/posts/aliyun-app-vps/</guid>
-  <description><![CDATA[阿里云轻量服务器优惠链接 轻量服务器与云服务器ECS的区别 云服务器ECS是阿里云提供的性能卓越、稳定可靠、弹性扩展的IaaS（Infrastr]]></description>
-</item>
-<item>
+      <webMaster>2441626619@qq.com (VPS推荐官)</webMaster><lastBuildDate>Fri, 14 Jul 2023 21:19:21 &#43;0800</lastBuildDate><atom:link href="https://vpssuggest.github.io/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/" rel="self" type="application/rss+xml" /><item>
   <title>如何选择适合自己的VPS？</title>
   <link>https://vpssuggest.github.io/posts/how-to-select-vps/</link>
   <pubDate>Fri, 14 Jul 2023 21:19:21 &#43;0800</pubDate>

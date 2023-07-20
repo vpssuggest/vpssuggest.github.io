@@ -13,12 +13,20 @@
   <description><![CDATA[阿里云轻量服务器优惠链接 轻量服务器与云服务器ECS的区别 云服务器ECS是阿里云提供的性能卓越、稳定可靠、弹性扩展的IaaS（Infrastr]]></description>
 </item>
 <item>
-  <title>我的第一篇文章</title>
-  <link>https://vpssuggest.github.io/posts/first_post/</link>
-  <pubDate>Mon, 20 Feb 2023 20:14:22 &#43;0800</pubDate>
+  <title>如何选择适合自己的VPS？</title>
+  <link>https://vpssuggest.github.io/posts/how-to-select-vps/</link>
+  <pubDate>Fri, 14 Jul 2023 21:19:21 &#43;0800</pubDate>
   <author>VPS推荐官</author>
-  <guid>https://vpssuggest.github.io/posts/first_post/</guid>
-  <description><![CDATA[博客（英语：Blog）是一种在线日记型式的个人网站，借由张帖子章、图片或视频来记录生活、抒发情感或分享信息。博客上的文章通常根据张贴时间，以]]></description>
+  <guid>https://vpssuggest.github.io/posts/how-to-select-vps/</guid>
+  <description><![CDATA[确定你的需求 首先，弄清楚你的需求是非常重要的。你的网站或应用程序需要多少资源？是一个小型博客，还是一个高流量的电商网站？通过了解你的需求，你]]></description>
+</item>
+<item>
+  <title>VPS是什么？</title>
+  <link>https://vpssuggest.github.io/posts/what-is-vps/</link>
+  <pubDate>Fri, 14 Jul 2023 16:16:29 &#43;0800</pubDate>
+  <author>VPS推荐官</author>
+  <guid>https://vpssuggest.github.io/posts/what-is-vps/</guid>
+  <description><![CDATA[在互联网世界里，你可能常常听到“VPS”这个词，但是它究竟是什么呢？让我们一起来揭开VPS的神秘面纱，探索它为什么如此重要和受欢迎！ 什么是V]]></description>
 </item>
 </channel>
 </rss>
