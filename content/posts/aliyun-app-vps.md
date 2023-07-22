@@ -5,6 +5,8 @@ categories: ["国内VPS"]
 tags: ["阿里云", "轻量服务器"]
 description: 阿里云VPS，轻量应用服务器
 keywords: ["VPS","VPS推荐","阿里云VPS","轻量应用服务器"]
+slug: aliyun-app-vps
+aliases: ["/categories/home-vps/"]
 draft: false
 ---
 

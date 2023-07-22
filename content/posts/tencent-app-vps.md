@@ -5,6 +5,7 @@ categories: ["国内VPS"]
 tags: ["腾讯云", "轻量服务器"]
 description: 腾讯云VPS，轻量应用服务器
 keywords: ["VPS","VPS推荐","腾讯云VPS","轻量应用服务器"]
+aliases: ["/categories/home-vps/"]
 draft: false
 ---
 
