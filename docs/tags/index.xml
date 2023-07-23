@@ -4,7 +4,15 @@
     <link>https://vpssuggest.github.io/tags/</link>
     <description>Tags - 标签 - VPS推荐</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2441626619@qq.com (VPS推荐官)</managingEditor>
-      <webMaster>2441626619@qq.com (VPS推荐官)</webMaster><lastBuildDate>Sat, 22 Jul 2023 20:55:22 &#43;0800</lastBuildDate><atom:link href="https://vpssuggest.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>2441626619@qq.com (VPS推荐官)</webMaster><lastBuildDate>Sun, 23 Jul 2023 20:59:21 &#43;0800</lastBuildDate><atom:link href="https://vpssuggest.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+  <title>VPS</title>
+  <link>https://vpssuggest.github.io/tags/vps/</link>
+  <pubDate>Sun, 23 Jul 2023 20:59:21 &#43;0800</pubDate>
+  <author>VPS推荐官</author>
+  <guid>https://vpssuggest.github.io/tags/vps/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
   <title>华为云</title>
   <link>https://vpssuggest.github.io/tags/%E5%8D%8E%E4%B8%BA%E4%BA%91/</link>
   <pubDate>Sat, 22 Jul 2023 20:55:22 &#43;0800</pubDate>
@@ -34,14 +42,6 @@
   <pubDate>Sun, 16 Jul 2023 15:14:22 &#43;0800</pubDate>
   <author>VPS推荐官</author>
   <guid>https://vpssuggest.github.io/tags/%E9%98%BF%E9%87%8C%E4%BA%91/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>VPS</title>
-  <link>https://vpssuggest.github.io/tags/vps/</link>
-  <pubDate>Fri, 14 Jul 2023 21:19:21 &#43;0800</pubDate>
-  <author>VPS推荐官</author>
-  <guid>https://vpssuggest.github.io/tags/vps/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>
